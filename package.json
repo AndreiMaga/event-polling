@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "A small library that will handle event polling for you",
   "author": "Andrei Maga",
+  "main": "dist/EventPolling.js",
+  "types": "dist/EventPolling.d.ts",
   "license": "MIT",
   "dependencies": {
     "typescript": "^4.7.4"
